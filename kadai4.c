@@ -32,7 +32,7 @@ int main()
     }
   }
 
-  /* 点数を上位から並べる（検算用、なくてもよい）*/
+  /* 点数を高い順に出力（検算用、なくてもよい）*/
   printf("\nscore order :");
   for(i=0; i<ENTRY; i++){
     printf("%d ",b[i]);
