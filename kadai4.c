@@ -11,7 +11,7 @@ int main()
    */
 
   int a[ENTRY];     /* エントリー順の配列 */
-  int b[ENTRY];     /* 点数順する予定の配列 */
+  int b[ENTRY];     /* 点数順に並べる予定の配列 */
   int i,j,ninth,tmp;
 
   /*10人の点数を入力*/
