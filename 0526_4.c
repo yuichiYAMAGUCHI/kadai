@@ -1,6 +1,4 @@
 #include <stdio.h>
-dafasdfsa
-
 int main()
 {
   int data[10] = {-3, -10, 0, 7, 2, 7, -9, 6, -9, 4};
