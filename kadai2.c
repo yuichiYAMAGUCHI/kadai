@@ -11,4 +11,13 @@ int main()
         printf("a[%d]=%d\n", n,a[n]);
     }
     return 0;
+
+
+//課題２編集
+
+
+
+
+
+
 }
