@@ -11,7 +11,7 @@ void main()
 	scanf("%d",&b);
 
 	for(i=a; i<=b; i++){
-		if(c%i==0){
+		if(c%i!=0){
 		x=x+1;
 		}
 	}
