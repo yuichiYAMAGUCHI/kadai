@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-	int i, a, data[5], n;
+	int i, a, data[5], n=0;
 
 	printf("5‚Â‚Ì®”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B\n");
 	for ( i=0 ; i<5 ; i++ )
@@ -13,6 +13,5 @@ void main()
 		if(data[i]%7==0)
 			n=n+1;
 		}
-	}
 	printf("7‚Ì”{”‚ÌŒÂ”‚Í%dŒÂ‚Å‚·B\n",n);
 }
